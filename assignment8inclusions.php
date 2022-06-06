@@ -1,6 +1,6 @@
 <?php
-$username='z1910087';
-$password = "1999Oct08";
+$username='';
+$password = "";
 
 function drawTable($rows) {
     if(empty($rows)) {echo "<p>No results found.</p>";}
