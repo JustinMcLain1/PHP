@@ -1,12 +1,12 @@
 
 <?php
 
-    //include("z1910087"); //works similar to c++
+    //include("z1910087"); 
     echo"<html><head><title>Test</title></head><body></body> 
     </html>
         This is the index document. 
     </body>
-    </html>"; //php has very similar syntax to C++
+    </html>"; 
     print("This is more text.");
     echo "This is more text.";
     
@@ -54,7 +54,7 @@
     $a[2] = 4;
     $a[3] = 9;
     $a[4] = 16;
-    $a[7] = 49; // in c++ you cant do this but in php you can it will display the other arrays for 5 and 6 with empty values
+    $a[7] = 49; 
     $a["pizza"] = "Gino's East\n";
 
     //constructor function for array
